@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import someFile from "./somepath"
+//import someFile from "./somepath"
 export default {
     
 }
