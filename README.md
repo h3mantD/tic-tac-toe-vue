@@ -1,5 +1,7 @@
 # tic-tac-toe
 
+### commit 1
+
 ## Project setup
 ```
 npm install
